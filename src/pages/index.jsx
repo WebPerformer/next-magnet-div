@@ -1,4 +1,8 @@
 import React, { useRef, useEffect } from "react"
+import Link from "next/link"
+
+// icons
+import { FiExternalLink } from "react-icons/fi"
 
 export default function Home() {
 
@@ -54,6 +58,7 @@ export default function Home() {
         <button className="hover-this" ref={button4Ref}>Four</button>
         <button className="hover-this" ref={button5Ref}>Five</button>
       </div>
+      <Link target="_blank" href="https://www.youtube.com/watch?v=eOkfkp4nkJM"><div className="credits">Credits: <span>FreeCodeWeb</span> <FiExternalLink/></div></Link>
     </div>
   )
 }
