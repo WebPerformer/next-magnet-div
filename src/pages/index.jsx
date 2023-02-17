@@ -47,10 +47,6 @@ export default function Home() {
 
   return (
     <div className="main-content">
-      <div className="title">
-        <div className="small-title">Development Project</div>
-        <div className="big-title">Magnet on Mousemove</div>
-      </div>
       <div className="magnet-container">
         <button className="hover-this" ref={button1Ref}>One</button>
         <button className="hover-this" ref={button2Ref}>Two</button>
