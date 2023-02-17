@@ -1,6 +1,6 @@
 Magnet on Mousemove
 
-![FireShot Capture 006 - Next js Template - localhost](https://user-images.githubusercontent.com/110235876/218537453-b963a30d-74d7-457c-a77a-95fd1e763617.png)
+![FireShot Capture 013 - Next js Template - localhost](https://user-images.githubusercontent.com/110235876/219173223-142a6866-1f6a-4c41-b722-ba49309049bd.png)
 
 ## Magnet on Mousemove
 
@@ -27,4 +27,4 @@ Magnet on Mousemove
 **Fique a vontade para fazer alterações.**
 
 ## Site Online
-(https://next-mousemove-parallax.vercel.app/)
+(https://next-magnet-div.vercel.app/)
